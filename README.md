@@ -34,3 +34,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+SynergyWrite is a cutting-edge collaborative editor designed to bring teams together, fostering real-time creativity and seamless collaboration. Whether you're drafting a document, brainstorming ideas, or editing content, SynergyWrite offers a fluid and intuitive experience that adapts to your workflow. With features like live editing, version control, and integrated communication tools, SynergyWrite empowers users to co-create and innovate effortlessly, making it the ideal platform for dynamic collaboration in any setting. Join the future of teamwork with SynergyWrite, where ideas converge, and creativity thrives.
